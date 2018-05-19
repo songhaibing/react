@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PcHeader from './pc_header'
 
-class pcHeader extends Component {
+class PcIndex extends Component {
     render() {
         return (
             <div>
@@ -11,4 +11,4 @@ class pcHeader extends Component {
     }
 }
 
-export default pcHeader;
+export default  PcIndex;
